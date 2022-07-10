@@ -1,4 +1,4 @@
-<h1> Árvores Binárias </h1>
+<h1 align = "center"> Árvores Binárias </h1>
 <p> - Em uma árvore binária, cada nó possui dois filhos, sendo um filho à esquerda e outro filho à direita. </p>
 <p> - Será trabalhado especificamente com um tipo de árvore binária, a <em> Binary Seach Tree </em> (BST), ou Árvore Binária de Busca/Pesquisa.
 <p> Em uma BST, (Considerando uma informação como sendo a chave da pesquisa), <ins> Todos os nós</ins> devem obdecer às seguintes regras:
