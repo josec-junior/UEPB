@@ -7,9 +7,8 @@
   <li> Todos os nós na sub-árvore <strong> à direita </strong> devem possuir chaves maiores. </li>
 </ul>
 <p> Com essas regras (as quais permitem uma rápida localização), toda informação deve ocupar um lugar específico na árvore. </p>
-<p> Por exemplo: Inserir numa BST, elementos com as chaves a seguir, respeitando a ordem: 20 → 13 → 7 → 42 → 25 → 3 → 18 → 37 → 22 → 10. Temos:
-<br>
-![BSTExemplo](https://user-images.githubusercontent.com/59178745/178126599-eeac42aa-8d97-4f9f-b366-1f206b10fb3b.jpg)
+<p> Por exemplo: Inserir numa BST, elementos com as chaves a seguir, respeitando a ordem: 20 → 13 → 7 → 42 → 25 → 3 → 18 → 37 → 22 → 10. Temos: </p>
+<img src = "https://user-images.githubusercontent.com/59178745/178126599-eeac42aa-8d97-4f9f-b366-1f206b10fb3b.jpg">
 
 <h2> Percorrimento em Árvores Binárias </h2>
 <p> - Percorrer uma árvore binária é um procedimento que deve garantir: </p>
@@ -46,7 +45,7 @@
 <p>
   Exemplo:
   <br>
-  ![BSTExemploPercorrimento](https://user-images.githubusercontent.com/59178745/178144695-b231c7d9-1b72-4fec-b835-6315920a33f4.png)
+  <img src = "https://user-images.githubusercontent.com/59178745/178144695-b231c7d9-1b72-4fec-b835-6315920a33f4.png">
 </p>
 <p>
   <strong> <ins> Pré-ordem</ins> </strong>: 20 → 13 → 7 → 3 → 10 → 18 → 42 → 25 → 22 → 37
