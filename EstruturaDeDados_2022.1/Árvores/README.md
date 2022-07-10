@@ -16,11 +16,11 @@
   - <strong> <ins> Grau de um nó</ins> </strong>: quantidade de filhos que este nó possui.
   <br>
   <em>
-    * Grau 3 
+    * Grau 3 (3 filhos)
     <br>
-    ** Grau 4
+    ** Grau 4 (4 filhos)
     <br>
-    *** Grau 2
+    *** Grau 2 (2 filhos)
   </em>
   <br>
   - <strong> <ins> Nó folha</ins> </strong>: Nó sem filhos ou de grau zero.
