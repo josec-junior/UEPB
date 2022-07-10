@@ -8,6 +8,7 @@
 </ul>
 <p> Com essas regras (as quais permitem uma rápida localização), toda informação deve ocupar um lugar específico na árvore. </p>
 <p> Por exemplo: Inserir numa BST, elementos com as chaves a seguir, respeitando a ordem: 20 → 13 → 7 → 42 → 25 → 3 → 18 → 37 → 22 → 10. Temos:
+![BST_Exemplo](https://user-images.githubusercontent.com/59178745/178126560-80311e32-396c-453b-8e57-e4c64a5efd6e.jpg)
 
 <h2> Percorrimento em Árvores Binárias </h2>
 <p> - Percorrer uma árvore binária é um procedimento que deve garantir: </p>
