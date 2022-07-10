@@ -6,7 +6,7 @@
   <br>
   - Em uma árvore, um elemento (nó) pode ter qualquer quantidade de filhos.
 </p>
-<img src = "">
+<img src = "https://user-images.githubusercontent.com/59178745/178148242-0769c235-bd74-438c-acad-55d49ba88543.png">
 <h2> Conceitos </h2>
 <p>
   - <strong> <ins> Raiz</ins> </strong>: Nó inicial da árvore.
@@ -33,7 +33,7 @@
 </p>
 <h2> Propriedade </h2>
 <p>
-  - Um nó <strong> não </strong> pode possuir mais de um pai; ou seja, em uma árvore não há a formação de <em> ciclos </em>.
+  - Um nó <strong> não </strong> pode possuir mais de um pai; ou seja, em uma árvore não há a formação de <em> ciclos</em>.
 </p>
 <h2> Aplicação </h2>
 <p>
