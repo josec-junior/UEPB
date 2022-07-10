@@ -45,6 +45,7 @@
 <p>
   Exemplo:
   <br>
+  ![BSTExemploPercorrimento](https://user-images.githubusercontent.com/59178745/178144695-b231c7d9-1b72-4fec-b835-6315920a33f4.png)
 </p>
 <p>
   <strong> <ins> Pré-ordem</ins> </strong>: 20 → 13 → 7 → 3 → 10 → 18 → 42 → 25 → 22 → 37
