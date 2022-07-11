@@ -88,7 +88,7 @@ class BSTNode:
       else:
         return alturaDir + 1
 
-  def apresentarGraus(self): #Método para apresentar os graus 
+  def apresentarGraus(self): #Método para apresentar os graus de cada nó da árvore.
     if self.data:
       grau = 0
       if self.left and self.right:
