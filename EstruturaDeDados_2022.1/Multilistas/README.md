@@ -8,7 +8,7 @@
   <br>
   - Como no <em> Python, </em> uma lista pode conter elementos de qualquer tipo, podemos adicionar objetos que têm uma lista como atributo. Graficamente:
 </p>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/178851024-50cdeb8a-3a59-4000-ac9e-67bd640ce86e.png">
 <p>
   - Como Multilista é uma lista de listas (coleção de coleções) esta é útil em problemas, os quais precisam manipular várias coleções independentes de objetos.
   <br>
