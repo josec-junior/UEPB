@@ -66,7 +66,7 @@ class Biblioteca:
               while aux and (aux.nome != nome or aux.matricula != matricula):
                   ant = aux
                   aux = aux.next
-              ant.next = None
+              ant.next = aux.next
               del aux
         else:
             print("Não há nenhum aluno cadastrado no sistema ainda!")
