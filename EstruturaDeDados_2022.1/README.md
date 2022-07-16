@@ -1,6 +1,6 @@
 <h1> Estrutura de Dados (2022.1) </h1>
 <p>
-  Este repositório contém anotações de aula, exemplos e exercícios que foram desenvolvidos nos componentes curriculares <strong> Estrutura de Dados </strong> e <strong> Laboratório de Estrutura de Dados</strong>, lecionadas pelos professores <em> Ricardo Santos de Oliveira </em> e <em> Allan Villar de Carvalho</em>, durante o período 2022.1, do curso Ciência da Computação da Universidade Estadual da Paraíba (UEPB).
+  Este repositório contém anotações de aula, exemplos e exercícios que foram desenvolvidos nos componentes curriculares <strong> Estrutura de Dados </strong> e <strong> Laboratório de Estrutura de Dados</strong>, lecionados pelos professores <em> Ricardo Santos de Oliveira </em> e <em> Allan Villar de Carvalho</em>, durante o período 2022.1, do curso Ciência da Computação da Universidade Estadual da Paraíba (UEPB).
 </p>
 <h2> Tópicos Abordados </h2>
 <ul>
