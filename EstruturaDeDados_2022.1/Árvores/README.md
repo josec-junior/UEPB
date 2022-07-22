@@ -39,3 +39,4 @@
 <p>
   - Além de representar informações naturalmente organizadas de forma hierárquica, árvores também são utéis para indexar coleções, provendo uma forma mais rápida de indentificar um elemento, dispensando comparações sequenciais.
 </p>
+<a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/%C3%81rvores/%C3%81rvoresBin%C3%A1rias"> <h3> Árvores Binárias </h3> </a>
