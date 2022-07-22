@@ -14,7 +14,7 @@
 <p> - Percorrer uma árvore binária é um procedimento que deve garantir: </p>
 <ol>
   <li> A visitação de todos os elementos da árvore; </li>
-  <li> O processamento de cada nó correndo uma única vez. </li>
+  <li> O processamento de cada nó ocorrendo uma única vez. </li>
 </ol>
 <p> - Há três maneiras de se percorrer uma árvore. </p>
 <p> - Em todas elas, o elemento <strong> à esquerda </strong> será visitado antes do elemento <strong> à direita</strong>.
