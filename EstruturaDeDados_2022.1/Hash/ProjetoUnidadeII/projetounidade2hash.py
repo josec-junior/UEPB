@@ -1,4 +1,4 @@
-def gerarMenu():
+def gerarMenu(): #Método para gerar um menu na tela.
   print("-=" * 10)
   print("1. Inserir Funcionário")
   print("2. Buscar Salário de um Funcionário")
@@ -23,23 +23,23 @@ class Hash:
     self.linhas = []
     self.gerarMatriz(tamanho) 
   
-  def gerarMatriz(self, tamanho):
+  def gerarMatriz(self, tamanho): #Método para gerar uma matriz que será utilizada para representar a tabela.
     for i in range(tamanho):
       self.linhas.append([] * 1) 
 
-  def inserirFuncionario(self, funcionario):
+  def inserirFuncionario(self, funcionario): #Método para inserir um Funcionário na tabela.
     codigoPrimeiraLetra = ord(funcionario.nome[0])
     posicao = codigoPrimeiraLetra % self.tamanho
     self.linhas[posicao].append(funcionario)
 
-  def buscarSalario(self, nome):
+  def buscarSalario(self, nome): #Método para retornar o salário de um Funcionário.
     for i in range(len(self.linhas)):
       for j in range(len(self.linhas[i])):
         if self.linhas[i][j].nome == nome:
           return self.linhas[i][j]
     return False
 
-  def listarFuncionarios(self):
+  def listarFuncionarios(self): #Método para listar todos os Funcionários da tabela.
     for i in range(len(self.linhas)):
       for j in range(len(self.linhas[i])):
         print(self.linhas[i][j], end = " ")
