@@ -54,3 +54,5 @@
   <br>
   <strong> <ins> Pós-ordem</ins> </strong>: 3 → 10 → 7 → 18 → 13 → 22 → 37 → 25 → 42 → 20
 </p>
+<h2> Balanceamento em Árvores Binárias </h2>
+<a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/%C3%81rvores/%C3%81rvoresBin%C3%A1rias/BalanceamentoEm%C3%81rvoresBin%C3%A1rias"> Balanceamento em Árvores Binárias </a>
