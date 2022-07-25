@@ -69,4 +69,5 @@
       <li> A função de transformação h(Chave) = Chave mod M, para M = 7.
     </ul>
   </ul>
+  <img src = "https://user-images.githubusercontent.com/59178745/180824471-b4de3289-ab3c-4479-a60d-9cdda66634ee.PNG"> 
 </p>
