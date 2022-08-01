@@ -5,7 +5,7 @@
 <h2> Tópicos Abordados </h2>
 <ul>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Recursividade"> Recursividade </a> </li>
-  <li> Listas Encadeadas </li>
+  <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/ListasEncadeadas"> Listas Encadeadas </a> </li>
   <li> Dicionários </li>
   <li> Pilhas </li>
   <li> Filas </li>
