@@ -26,7 +26,7 @@
       código
       funcao_a()
       mais código
-  <code>
+  </code>
 </pre>
 <p>
   Uma função é dita recursiva quando dentro do seu corpo existe uma chamada a si própria. Assim:
