@@ -56,4 +56,4 @@
 <p>
   Também pode-se utilizar uma estrutura adicional para referenciar o início e o fim da lista, por questão de desempenho:
 </p>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/182240846-da03c1df-4f8b-42ed-9fd4-33fa09e926e1.png">
