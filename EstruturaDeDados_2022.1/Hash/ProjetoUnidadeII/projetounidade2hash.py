@@ -33,10 +33,11 @@ class Hash:
     self.linhas[posicao].append(funcionario)
 
   def buscarSalario(self, nome): #Método para retornar o salário de um Funcionário.
-    for i in range(len(self.linhas)):
-      for j in range(len(self.linhas[i])):
-        if self.linhas[i][j].nome == nome:
-          return self.linhas[i][j]
+    codigoPrimeiraLetra = ord(funcionario.nome[0])
+    posicao = codigoPrimeiraLetra % self.tamanho
+    for f in self.linhas[posicao]:
+      if f.nome == nome:
+        return f
     return False
 
   def listarFuncionarios(self): #Método para listar todos os Funcionários da tabela.
