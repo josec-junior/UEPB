@@ -61,9 +61,9 @@
 <p>
   Ao chamar uma função, nos comportamos como "clientes" dessa função. Nos preocupamois com <ins> o que</ins> será feito, não com o <ins> como</ins>.
   <br>
-  <a href = "#"> Exemplo: Fatorial </a>
+  <a href = "https://github.com/josec-junior/UEPB/blob/main/EstruturaDeDados_2022.1/Recursividade/fatorial.py"> Exemplo: Fatorial </a>
   <br>
-  <a href = "#"> Exemplo: Fibonacci </a>
+  <a href = "https://github.com/josec-junior/UEPB/blob/main/EstruturaDeDados_2022.1/Recursividade/fibonacci.py"> Exemplo: Fibonacci </a>
   <br>
-  <a href = "#"> Exemplo: Imprimir Vetor </a> 
+  <a href = "https://github.com/josec-junior/UEPB/blob/main/EstruturaDeDados_2022.1/Recursividade/imprimirvetor.py"> Exemplo: Imprimir Vetor </a> 
 </p>
