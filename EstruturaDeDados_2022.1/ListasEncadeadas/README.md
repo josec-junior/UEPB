@@ -25,7 +25,7 @@
   <br>
   &rarr; Os elementos não ficam necessariamente em sequência, mas a lista abstrai isso. Para tanto, cada elemento traz consigo uma referência para a posição de memória em que se encontra o próximo elemento.
 </p>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/182227578-e0f24f7b-8b33-4bea-b488-cc674923d9e6.png">
 <p>
   Deve existir um apontador inicial (Head) a partir do qual se tem acesso a todo o conteúdo.
   A última posição, como não possui um próximo endereço para referenciar, deve apontar para <ins> lugar nenhum</ins>.
@@ -52,7 +52,7 @@
   <br>
   Pode-se, para facilitar a manipulação e otimizar desempenho, usar um encadeamento duplo:
 </p>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/182227720-64e52e96-518d-4137-a1b3-4fec719c4fa5.png">
 <p>
   Também pode-se utilizar uma estrutura adicional para referenciar o início e o fim da lista, por questão de desempenho:
 </p>
