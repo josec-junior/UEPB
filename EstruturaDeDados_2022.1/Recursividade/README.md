@@ -59,7 +59,7 @@
 </p>
 <h2> Elaborando Funções Recursivas </h2>
 <p>
-  Ao chamar uma função, nos comportamos como "clientes" dessa função. Nos preocupamois com <ins> o que</ins> será feito, não com o <ins> como</ins>.
+  Ao chamar uma função, nos comportamos como "clientes" dessa função. Nos preocupamos com <ins> o que</ins> será feito, não com o <ins> como</ins>.
   <br>
   <a href = "https://github.com/josec-junior/UEPB/blob/main/EstruturaDeDados_2022.1/Recursividade/fatorial.py"> Exemplo: Fatorial </a>
   <br>
