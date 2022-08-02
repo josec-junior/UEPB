@@ -26,7 +26,7 @@
     <li> Vazia: verificar se a fila está vazia </li>
   </ul>
 </p>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/182468601-f3117fde-8493-41e8-a265-cbbec17a8319.png">
 <h3> Utilização </h3>
 <p>
   - Filas são utilizadas em situações em que há disputa por algum recurso.
