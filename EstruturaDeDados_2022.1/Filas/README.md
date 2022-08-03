@@ -3,7 +3,7 @@
 <p>
   - São dois tipos abstratos de dados sequenciais;
   <br>
-  - Se diferenciam de Listas, pois em restrições de acesso;
+  - Se diferenciam de Listas, pois possuem restrições de acesso;
   <br>
   - Ou seja, <strong> nem toda operação é permitida </strong> em uma Pilha ou Fila.
 </p>
