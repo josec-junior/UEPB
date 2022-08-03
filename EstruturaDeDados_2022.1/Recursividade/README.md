@@ -35,7 +35,7 @@
   <code>
     def funcao_rec():
       código
-      &rarr; funcao_rec()
+      funcao_rec() &larr;
       mais código
   </code>
 </pre>
