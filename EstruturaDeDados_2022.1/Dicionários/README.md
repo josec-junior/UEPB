@@ -52,4 +52,5 @@
     <li> A palavra que mais ocorre e sua quantidade. </li>
     <li> Uma lista com as 10 palavras mais frequentes. </li>
   </ol>
+  <a href = "https://github.com/josec-junior/UEPB/blob/main/EstruturaDeDados_2022.1/Dicion%C3%A1rios/ExercicioDicionario/exerciciodicio.py"> Acesse o exercício </a>
 </p>
