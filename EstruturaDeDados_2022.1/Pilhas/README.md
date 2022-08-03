@@ -17,7 +17,7 @@
   <br>
   - Para manter a analogia, imaginemos uma pilha de elementos na vertical.
 </p>
-<img src = "">
+<img src = "https://user-images.githubusercontent.com/59178745/182507130-ee336665-c19a-436a-ae5c-c56598ff5108.png">
 <h3> Operações </h3>
 <ul>
   <li> <em> push</em>: Insere um elemento no topo da pilha; </li>
