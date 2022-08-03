@@ -6,7 +6,7 @@
 <ul>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Recursividade"> Recursividade </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/ListasEncadeadas"> Listas Encadeadas </a> </li>
-  <li> Dicionários </li>
+  <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Dicion%C3%A1rios"> Dicionários </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Pilhas"> Pilhas </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Filas"> Filas </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Multilistas"> Multilistas </a> </li>
