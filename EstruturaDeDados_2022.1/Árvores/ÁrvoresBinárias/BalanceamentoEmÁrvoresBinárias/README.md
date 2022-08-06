@@ -8,7 +8,7 @@
   <br>
   &rarr; A diferença de altura entre as sub-árvores da esquerda e da direita é, <strong> no máximo, igual a um. </strong> Exemplos:
 </p>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/183268498-8ccb74cf-f279-49f0-93bb-b468a5ba3ef9.png">
 <h2> Balanceamento Estático x Balanceamento Dinâmico </h2>
 <p>
   - O Balanceamento Estático é feito em uma árvore construída de forma desbalanceada.
