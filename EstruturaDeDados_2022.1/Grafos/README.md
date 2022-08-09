@@ -31,14 +31,14 @@
   <li> Matriz de Adjacência </li>
 </ol>
 <h3> Estrutura de Adjacência </h3>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/183540866-b4440647-0823-4bfb-8ca4-68e5bd3f81f0.png">
 <h3> Matriz de Adjacência </h3>
 <p>
   - Matriz de N x N elementos, onde N = número de vértices;
   <br>
   - Cada posição representa a existência ou não de uma adjacência entre os vértices representados na linha e na coluna.
 </p>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/183540904-4cbb77f1-e099-474b-97fe-1a3fead921c3.png">
 <h2> Percorrimento </h2>
 <ol>
   <li> Amplitude </li>
