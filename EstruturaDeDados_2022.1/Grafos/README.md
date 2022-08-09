@@ -12,7 +12,7 @@
   <br>
   Exemplo:
 </p>
-<img src = "https://user-images.githubusercontent.com/59178745/183268871-f1ed2cd4-36be-42e4-bba9-bc195e2ff162.png">
+<img src = "https://user-images.githubusercontent.com/59178745/183762492-44b03129-294c-4ac5-9df9-8527ca4c4f01.png">
 <p>
   Vértices: <em> V = {A, B, C, D} </em>
   <br>
