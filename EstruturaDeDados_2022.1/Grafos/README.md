@@ -58,4 +58,4 @@
   <br>
   Então, faz-se o caminho de volta, buscando-se outros adjacentes não visitados.
 </p>
-<img>
+<img src = "https://user-images.githubusercontent.com/59178745/184558954-b660cb0c-31c6-41cf-8101-d8236377c03e.png">
