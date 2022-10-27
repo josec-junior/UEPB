@@ -14,3 +14,8 @@
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Hash"> Hash </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Grafos"> Grafos </a> </li>
 </ul>
+<h2> Exercícios / Projetos </h2>
+<ul>
+  <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Laborat%C3%B3rioEstruturaDeDados"> Laboratório de Estrutura de Dados </a> </li>
+  <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/EstruturaDeDados_2022.1/Hash/ProjetoUnidadeII"> Projeto Unidade II </a> </li>
+</ul>
