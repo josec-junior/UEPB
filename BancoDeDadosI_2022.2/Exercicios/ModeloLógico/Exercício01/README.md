@@ -1,7 +1,7 @@
 <h1> Exercício 01 </h1>
 <p>
   Realize o mapeamento para o modelo lógico, do Diagrama Entidade-Relacionamento abaixo
-  <img src = "">
+  <img src = "https://user-images.githubusercontent.com/59178745/200614738-7fde8191-780c-4818-bcdd-d178f2613a90.jpeg">
 </p>
 <h2> O Diagrama </h2>
 <img src = "https://user-images.githubusercontent.com/59178745/200613364-4c02d624-fff4-4307-9dfc-30673b338790.png">
