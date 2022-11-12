@@ -6,4 +6,5 @@
 <ul>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/BancoDeDadosI_2022.2/Exercicios/ModeloConceitual/"> Modelo Conceitual </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/BancoDeDadosI_2022.2/Exercicios/ModeloL%C3%B3gico/"> Modelo Lógico </a> </li>
+  <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/BancoDeDadosI_2022.2/Exercicios/ModeloF%C3%ADsico/"> Modelo Físico </a> </li> 
 </ul>
