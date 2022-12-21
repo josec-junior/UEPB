@@ -5,7 +5,7 @@
 <h2> Tópicos Abordados </h2>
 <ul>
   <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosI_2022.2/Anota%C3%A7%C3%B5es/Introdu%C3%A7%C3%A3o.pdf"> Introdução </a> </li>
-  <li> <a href = ""> Modelo Entidade-Relacionamento (MER) </a> </li>
+  <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosI_2022.2/Anota%C3%A7%C3%B5es/Modelo%20Entidade-Relacionamento%20(MER).pdf"> Modelo Entidade-Relacionamento (MER) </a> </li>
 </ul>
 <h2> Exercícios </h2>
 <ul>
