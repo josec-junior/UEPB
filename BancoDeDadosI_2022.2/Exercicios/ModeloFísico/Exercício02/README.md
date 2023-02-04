@@ -14,3 +14,5 @@
     <li> Recupere o nome de todos os empregados que possuem um supervisor; </li>
   </ol>
 </p>
+<h2> O SQL </h2>
+<a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosI_2022.2/Exercicios/ModeloF%C3%ADsico/Exerc%C3%ADcio02/ExercicioEmpresa.sql"> Baixe o código </a>
