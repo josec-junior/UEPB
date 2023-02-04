@@ -10,10 +10,10 @@ SELECT matricula, nome FROM Empregados;
 /* Selecionar as informações sobre os empregados do departamento dois */
 SELECT * FROM Empregados WHERE codigo_departamento = 2;
 
-/* Selecionar a matrÍcula e o nome de todos os empregados, renomeando somente atributo nome para NomeEmpregado. */
+/* Selecionar a matrÍcula e o nome de todos os empregados, renomeando somente atributo nome para NomeEmpregado */
 SELECT matricula, nome AS nome_empregado FROM Empregados;
 
-/* Calcule como ficaria o novo salário de cada empregado caso eles recebessem um aumento de 15%, recuperando a sua matricula, nome e o novo salário reajustado. */
+/* Calcule como ficaria o novo salário de cada empregado caso eles recebessem um aumento de 15%, recuperando a sua matricula, nome e o novo salário reajustado */
 SELECT matricula, nome, salario + salario * 0.15 AS salario_reajustado FROM Empregados;
 
 /* Selecione o nome dos empregados que trabalham no departamento de Vendas */
