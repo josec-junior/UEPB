@@ -1,0 +1,25 @@
+-- 1 - Qual o total de funcionários da empresa?
+SELECT COUNT(nome) AS total_funcionarios FROM Funcionarios;
+
+-- 2 - Qual a média salarial da empresa?
+SELECT AVG(salario) AS media_salarial FROM Funcionarios;
+
+-- 3 - Qual o total de funcionários e a média salarial por departamento?
+SELECT AVG(salario), COUNT(nome)
+FROM Funcionarios
+GROUP BY departamento_id;
+
+-- 4 - Selecione o nome dos funcionários que são gerentes ou que ganham acima de R$ 3.000,00.
+SELECT nome
+FROM Funcionarios F, Departamentos D
+WHERE F.id = D.funcionario_gerente_id OR salario > 3000 AND F.departamento_id = D.id;
+
+-- 5 - Selecione os projetos que tenham no mínimo 3 atividades realizadas.
+SELECT descricao
+FROM Projetos, AtividadesProjetos
+WHERE id = projeto_id GROUP BY descricao HAVING COUNT(projeto_id) >=3; 
+
+-- 6 - Selecione os departamentos que não têm projetos alocados.
+SELECT D.descricao
+FROM Departamentos D, Projetos P
+WHERE D.id != P.departamento_id GROUP BY D.descricao HAVING COUNT(departamento_id) < 1;
