@@ -4,3 +4,4 @@
 </p>
 <h2> Tópicos Abordados </h2>
 <h2> Exercícios </h2>
+<h2> Atividades </h2>
