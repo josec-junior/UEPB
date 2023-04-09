@@ -9,6 +9,7 @@
   <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosI_2022.2/Anota%C3%A7%C3%B5es/Convers%C3%A3o%20do%20Modelo%20Conceitual%20para%20o%20L%C3%B3gico.pdf"> Conversão do Modelo Conceitual para o Modelo Lógico </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosI_2022.2/Anota%C3%A7%C3%B5es/Normaliza%C3%A7%C3%A3o.pdf"> Normalização </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosI_2022.2/Anota%C3%A7%C3%B5es/Introdu%C3%A7%C3%A3o%20ao%20Modelo%20F%C3%ADsico.pdf"> Introdução ao Modelo Físico </a> </li>
+  <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosI_2022.2/Anota%C3%A7%C3%B5es/Realizando%20Consultas%20com%20o%20SELECT.pdf"> Realizando Consultas com o SELECT </a> </li>
 </ul>
 <h2> Exercícios </h2>
 <ul>
