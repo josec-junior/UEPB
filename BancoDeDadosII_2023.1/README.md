@@ -20,5 +20,5 @@
 </ul>
 <h2> Scripts </h2>
 <ul>
-  <li> <a href = ""> Empresa </a> </li>
+  <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosII_2023.1/Scripts/script_ativ.sql"> Empresa </a> </li>
 </ul>
