@@ -1,4 +1,4 @@
-<h1> Atividade 03 </h1>
+<h1> Atividade 03 - Challenge SQL Beginner Mode.com </h1>
 <p>
     Responder às 5 perguntas do challenge beginner. Mandar o código das consultas e a resposta correta num arquivo de texto nessa atividade.
 </p>
