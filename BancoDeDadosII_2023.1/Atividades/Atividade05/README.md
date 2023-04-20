@@ -1,6 +1,6 @@
 <h1> Atividade 05 - Projeto </h1>
 <p>
-    Usando o script <a href = ""> script_ativ.sql</a> e usando o Postgresql, resolva os problemas a seguir:
+    Usando o script <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosII_2023.1/Scripts/script_ativ.sql"> script_ativ.sql</a> e usando o Postgresql, resolva os problemas a seguir:
 </p>
 <ol>
     <li>
