@@ -18,3 +18,6 @@
     <li> Crie um gatilho na tabela AtividadesProjetos, para que cada vez que uma nova linha seja inserida, caso o funcionário responsável pelo projeto tenha atingido 3 atividades, receba um prêmio de 20% do salário (inserido na tabela prêmio). </li>
     <li> Crie uma visão chamada Total_premios_2022, que contenha o nome do funcionário e o total em prêmios que ele tem a receber em 2022. </li>
 </ol>
+<ul>
+    <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosII_2023.1/Atividades/Atividade05/atividade05.sql"> Código SQL </a> </li>
+</ul> 
