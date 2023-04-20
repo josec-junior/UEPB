@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS AtividadesProjetos;
 DROP TABLE IF EXISTS Projetos;
-ALTER TABLE IF EXISTS Funcionarios
+ALTER TABLE IF EXISTS Funcionarios;
 DROP CONSTRAINT FkDepto;
 DROP TABLE IF EXISTS Departamentos;
 DROP TABLE IF EXISTS Funcionarios;
@@ -31,7 +31,7 @@ ALTER TABLE Funcionarios ADD CONSTRAINT FkDepto FOREIGN KEY (departamento_id)
 ALTER TABLE Departamentos ADD CONSTRAINT FkFuncionario FOREIGN KEY (funcionario_gerente_id)
    REFERENCES Funcionarios (id) ON DELETE SET NULL;
 
-Create Table Projetos (
+CREATE TABLE Projetos (
    id INT PRIMARY KEY,
    descricao VARCHAR(30) NOT NULL,
    departamento_id INT REFERENCES Departamentos (id) ON DELETE SET NULL,
