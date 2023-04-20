@@ -1,6 +1,6 @@
 <h1> Exercício 02 </h1>
 <p>
-    Exercícios a serem resolvidos utilizando o esquema <a href = ""> empresa.sql </a>
+    Exercícios a serem resolvidos utilizando o esquema <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosII_2023.1/Scripts/script_ativ.sql"> empresa.sql </a>
 </p>
 <ol>
     <li> Qual o nome do projeto que tem mais atividades realizadas? </li>
