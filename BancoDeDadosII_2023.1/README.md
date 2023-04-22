@@ -17,6 +17,7 @@
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/BancoDeDadosII_2023.1/Atividades/Atividade03"> Atividade 03 - Challenge SQL Beginner Mode.com </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/BancoDeDadosII_2023.1/Atividades/Atividade04"> Atividade 04 - SQL Murder Mystery </a> </li>
   <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/BancoDeDadosII_2023.1/Atividades/Atividade05"> Atividade 05 - Projeto </a> </li>
+  <li> <a href = "https://github.com/josec-junior/UEPB/tree/main/BancoDeDadosII_2023.1/Atividades/Atividade06"> Atividade 06 - Materialized Views </a> </li>
 </ul>
 <h2> Scripts </h2>
 <ul>
