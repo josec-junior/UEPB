@@ -22,3 +22,6 @@
         Dê um refresh na visão materializada e refaça a consulta 3. Mudou alguma coisa?
     </li>
 </ol>
+<ul>
+    <li> <a href = "https://github.com/josec-junior/UEPB/blob/main/BancoDeDadosII_2023.1/Atividades/Atividade06/atividade06.sql"> Código SQL </a> </li>
+</ul>
